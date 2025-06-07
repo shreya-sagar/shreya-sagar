@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Shreya Sagar! 👋
 
-**Backend Developer** | Pursuing Executive M.Tech in AI @ IIT Bhilai
+**Backend Developer** | Pursuing Executive M.Tech in AI 🤖 @ IIT Bhilai
 ---
 
 🌟 **About Me**
