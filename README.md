@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ---
 
 🚀 **Featured Project**
-### [Smart Expense Tracker] (Development In Progress)(#)
+### [Smart Expense Tracker](#)
 _A smart, efficient way to keep your expenses in check!_
-> https://github.com/shreya-sagar/smart-expense-tracker
+> https://github.com/shreya-sagar/smart-expense-tracker - Development is in progress, Wait for it! It will be awesome 🎈
 
 ---
 
