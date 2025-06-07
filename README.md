@@ -35,5 +35,3 @@ _A smart, efficient way to keep your expenses in check!_
 
 🔗 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-sagar-30b055a6/)
-
----
