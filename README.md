@@ -13,26 +13,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Shreya Sagar! 👋
+<!--
+Profile: Shreya Sagar | Backend Developer | Java | Spring | Microservices | AI | Artificial Intelligence | IIT Bhilai | Expense Tracker | Software Engineer | Problem Solver
+-->
 
-**Backend Developer** | Pursuing Executive M.Tech in AI 🤖 @ IIT Bhilai
----
+# Shreya Sagar — Backend Developer | AI Enthusiast | Java, Spring, Microservices
 
-🌟 **About Me**
-- 🧩 I love problem solving! Everyday, I am trying to become a better software engineer.
-- 💻 Passionate about building scalable backend systems.
-- 🛠️ My main tools: **Java**, **Spring**, **Microservices**
-- 🏃‍♀️ Running changed my life.
-- 🏋️‍♀️ Currently obsessed with kettlebell swings!
+**Backend Developer** specializing in scalable systems, microservices, and cloud-native applications. **Currently pursuing an Executive M.Tech (2025-27) in Artificial Intelligence at IIT Bhilai.** Passionate about problem solving, backend architecture, and AI-driven solutions.
 
 ---
 
-🚀 **Featured Project**
-### [Smart Expense Tracker](#)
-_A smart, efficient way to keep your expenses in check!_
-> https://github.com/shreya-sagar/smart-expense-tracker - Development is in progress, Wait for it! It will be awesome 🎈
+## 🚀 Featured Project: Smart Expense Tracker (Java, Spring Boot, Microservices)
+A smart, efficient way to keep your expenses in check!  
+[Smart Expense Tracker Repository](https://github.com/shreya-sagar/smart-expense-tracker)  
+*Technologies: Java, Spring Boot, Microservices, REST APIs, Cloud Deployment*  
+> Development in progress — stay tuned!
 
 ---
 
-🔗 **Connect with me**
+## 🛠️ Technical Skills
+- **Languages:** Java, Python
+- **Frameworks:** Spring, Spring Boot
+- **Architecture:** Microservices, RESTful APIs
+- **Cloud:** AWS, Docker, Kubernetes
+- **AI & ML:** Pursuing 2 years Executive M.Tech at IIT Bhilai
+
+---
+
+## 🌟 About Me
+- Problem solver focused on backend development and scalable systems.
+- Experienced with Java, Spring, and microservices in production settings.
+- Passionate about running, fitness, and continuous learning.
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-sagar-30b055a6/)
+
+
+## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-sagar-30b055a6/)
