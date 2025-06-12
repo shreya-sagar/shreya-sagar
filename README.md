@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 ---
 
 🌟 **About Me**
-- 🧩 I love problem solving!
+- 🧩 I love problem solving! Everyday, I am trying to become a better software engineer.
 - 💻 Passionate about building scalable backend systems.
 - 🛠️ My main tools: **Java**, **Spring**, **Microservices**
+- 🏃‍♀️ Running changed my life.
 - 🏋️‍♀️ Currently obsessed with kettlebell swings!
 
 ---
