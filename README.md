@@ -19,7 +19,7 @@ Profile: Shreya Sagar | Backend Developer | Java | Spring | Microservices | AI |
 
 # Shreya Sagar — Backend Developer | AI Enthusiast | Java, Spring, Microservices
 
-**Backend Developer** specializing in scalable systems, microservices, and cloud-native applications. **Currently pursuing an Executive M.Tech (2025-27) in Artificial Intelligence at IIT Bhilai.** Passionate about problem solving, backend architecture, and AI-driven solutions.
+**Backend Developer** specializing in scalable systems, microservices, and cloud-native applications. **Currently pursuing Executive M.Tech (2025-27) in Artificial Intelligence at IIT Bhilai.** Passionate about problem solving, backend architecture, and AI-driven solutions.
 
 ---
 
