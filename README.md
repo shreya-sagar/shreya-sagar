@@ -23,14 +23,6 @@ Profile: Shreya Sagar | Backend Developer | Java | Spring | Microservices | AI |
 
 ---
 
-## 🚀 Featured Project: Smart Expense Tracker (Java, Spring Boot, Microservices)
-A smart, efficient way to keep your expenses in check!  
-[Smart Expense Tracker Repository](https://github.com/shreya-sagar/smart-expense-tracker)  
-*Technologies: Java, Spring Boot, Microservices, REST APIs, Cloud Deployment*  
-> Development in progress — stay tuned!
-
----
-
 ## 🛠️ Technical Skills
 - **Languages:** Java, Python
 - **Frameworks:** Spring, Spring Boot
