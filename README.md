@@ -24,7 +24,7 @@ Profile: Shreya Sagar | Backend Developer | Java | Spring | Microservices | AI |
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Java, Python
+- **Languages:** Java (Skilled), Python (Beginner)
 - **Frameworks:** Spring, Spring Boot
 - **Architecture:** Microservices, RESTful APIs
 - **Cloud:** AWS, Docker, Kubernetes
